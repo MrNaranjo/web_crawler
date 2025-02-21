@@ -12,7 +12,7 @@ ___
 |RNF01 - Utilizar threads para agilizar o processo|
 
 
-# Considerações #
+**Considerações**
 
 Nesta primeira versão não trabalharei na disponibilização amigável dos dados ao usuário
 
@@ -30,7 +30,7 @@ As checagens criarão os seguintes dados:
 ## Endereços com erros
 Registro contendo todos os endereços que retornaram algum erro 4xx ou 5xx
 
-# Atributos #
+**Atributos**
 
 | Endereço | Erro |
 | -------- | ---- |
@@ -41,6 +41,8 @@ Registro contendo todos os endereços que retornaram algum erro 4xx ou 5xx
 
 ## Links
 Registro contendo os vínculos de quais endereços referenciam quais endereços, mesmo que multiplas vezes
+
+**Atributos**
 
 | Origem | Destino |
 | ------ | ------- |
