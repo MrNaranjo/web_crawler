@@ -5,14 +5,14 @@ ___
 
 
 ## Requisitos
-RF01 - Ler os endereços base a serem checados de um arquivo de configuração
-RF02 - Controlar os endereços para não checar 2 vezes o mesmo endereço, mas registrar as diferentes origens para um mesmo endereço
-RF03 - Identificar e registrar endereços que contenham HTTP status 4xx ou 5xx
+|RF01 - Ler os endereços base a serem checados de um arquivo de configuração|
+|RF02 - Controlar os endereços para não checar 2 vezes o mesmo endereço, mas registrar as diferentes origens para um mesmo endereço|
+|RF03 - Identificar e registrar endereços que contenham HTTP status 4xx ou 5xx|
 
-RNF01 - Utilizar threads para agilizar o processo
+|RNF01 - Utilizar threads para agilizar o processo|
 
 
-#Considerações#
+# Considerações #
 
 Nesta primeira versão não trabalharei na disponibilização amigável dos dados ao usuário
 
@@ -30,7 +30,7 @@ As checagens criarão os seguintes dados:
 ## Endereços com erros
 Registro contendo todos os endereços que retornaram algum erro 4xx ou 5xx
 
-#Atributos#
+# Atributos #
 
 | Endereço | Erro |
 | -------- | ---- |
