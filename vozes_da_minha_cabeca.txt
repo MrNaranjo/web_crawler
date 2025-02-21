@@ -1,0 +1,7 @@
+Lista de ideias para evoluir e parametrizar:
+
+-l Checar links (a href)
+-s Checar scripts (script src)
+-m Checar meta tags e seus links se tiverem
+-i Checar imagens
+-f Checar arquivos
