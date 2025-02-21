@@ -5,10 +5,15 @@ ___
 
 
 ## Requisitos
+
+|Funcionais|
+|---|
 |RF01 - Ler os endereços base a serem checados de um arquivo de configuração|
 |RF02 - Controlar os endereços para não checar 2 vezes o mesmo endereço, mas registrar as diferentes origens para um mesmo endereço|
 |RF03 - Identificar e registrar endereços que contenham HTTP status 4xx ou 5xx|
 
+|Não Funcionais|
+|---|
 |RNF01 - Utilizar threads para agilizar o processo|
 
 
